@@ -1,33 +1,66 @@
-# Shams Zakaria – Data Analytics Portfolio
+# 👋 Hi, I'm Shams Zakaria
 
-🎯 Junior Data Analyst passionate about business intelligence, automation, and facility data analytics.  
-Currently working on Power BI dashboards, SQL-based reporting, and Excel automation with a focus on CAFM and operations systems.  
-
----
-
-## 🛠 Technical Stack
-
-- **Power BI** (Data Modeling, DAX, Visual KPIs)
-- **Excel** (Formulas, PivotTables, Automation)
-- **SQL** (CTEs, Joins, Window Functions)
-- **Python** (pandas, numpy – for cleaning & preprocessing)
-- **Git & GitHub** for version control & portfolio management
+🎯 **Junior Data Analyst**  
+📍 Cairo, Egypt  
+💻 Passionate about transforming operational and business data into powerful insights.
 
 ---
 
-## 📁 Featured Projects
+## 🔍 About Me
 
-| Project | Tools | Description |
-|--------|-------|-------------|
-| [Sales Performance Dashboard](link_here) | Power BI | Multi-page dashboard analyzing sales KPIs using AdventureWorks2019 |
-| [Amazon Sales Excel Dashboard](link_here) | Excel | PivotTables, slicers, and visuals to track category and region performance |
-| [Healthcare SQL Report](link_here) | SQL Server | 30+ queries generating insights on admissions, billing, and medications |
+I’m a detail-oriented data analyst with hands-on experience in:
+- Business Intelligence using **Power BI** and **Tableau**
+- Data cleaning and automation with **Excel** and **Python**
+- Writing advanced queries with **SQL Server**
+- Facility management analytics using **CAFM (IMS)** systems
+
+Currently focused on building and publishing real-world data projects across various domains like sales, healthcare, and facility operations.
 
 ---
 
-## 🔗 Connect with Me
+## 💡 Tools & Technologies
 
-- GitHub: [github.com/ShamsZakaria](https://github.com/ShamsZakaria)
-- LinkedIn: [linkedin.com/in/shams-zakaria](https://www.linkedin.com/in/shams-zakaria/)
-- Email: dev.shamszakaria211@gmail.com
+| Category             | Tools / Skills                                                |
+|----------------------|---------------------------------------------------------------|
+| **Data Analysis**    | Power BI, Tableau, Excel (Formulas, PivotTables, Power Query) |
+| **Programming**      | Python (Pandas, NumPy), SQL (Joins, CTEs, Aggregates)          |
+| **Automation**       | GitHub Actions, Excel Macros                                   |
+| **Databases**        | SQL Server, AdventureWorks, Excel/CSV                          |
+| **Version Control**  | Git, GitHub                                                    |
+| **Environments**     | VS Code, Jupyter Notebook, Google Colab                        |
 
+---
+
+## 📊 Featured Projects
+
+### 🔹 Sales Performance Dashboard | Power BI  
+Multi-page dashboard analyzing sales trends and customer segments using DAX and slicers.  
+→ [View Project](https://github.com/ShamsZakaria/Sales-Dashboard)
+
+### 🔹 Healthcare Data Report | SQL Server  
+SQL-powered report analyzing patients, billing, and medical insights with 30+ queries.  
+→ [View Report](https://github.com/ShamsZakaria/Healthcare-Data-SQL)
+
+### 🔹 Amazon Sales Dashboard | Excel  
+Interactive Excel dashboard using PivotTables, slicers, and conditional formatting.  
+→ [View Dashboard](https://github.com/ShamsZakaria/Amazon-Sales-Excel)
+
+---
+
+## 🚀 Currently Working On
+
+- Building a full Facility Maintenance Analytics project using Python + Power BI  
+- Practicing interview scenarios for Route Tech Summit 2025  
+- Publishing more dashboards and tutorials on GitHub and LinkedIn
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shams-zakaria/)
+- 💻 [GitHub](https://github.com/ShamsZakaria)
+- 📧 dev.shamszakaria211@gmail.com
+
+---
+
+_Always learning. Always building. Always improving._
